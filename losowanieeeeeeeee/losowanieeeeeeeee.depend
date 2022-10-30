@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620976400 source:c:\users\aniasz\desktop\losowanieeeeeeeee\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
